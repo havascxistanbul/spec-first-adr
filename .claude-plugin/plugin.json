@@ -1,0 +1,19 @@
+{
+  "name": "spec-first-adr",
+  "version": "1.1.0",
+  "description": "Spec-first engineering discipline for Claude Code: lock a spec before coding, record an ADR for every significant decision, and maintain an append-only CLAUDE_LOG decision ledger.",
+  "author": {
+    "name": "Mehmet Turac"
+  },
+  "homepage": "https://github.com/havascxistanbul/spec-first-adr",
+  "repository": "https://github.com/havascxistanbul/spec-first-adr",
+  "license": "MIT",
+  "keywords": [
+    "spec-first",
+    "adr",
+    "architecture-decision-record",
+    "documentation",
+    "engineering-discipline",
+    "decision-log"
+  ]
+}
